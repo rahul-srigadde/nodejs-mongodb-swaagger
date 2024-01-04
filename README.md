@@ -20,4 +20,4 @@ Run the project and access the documentation at:
 ## Screenshots
 See the result after construction:
 
-![](https://raw.githubusercontent.com/davibaltar/public-store/master/screen-swagger-autogen.png)
+![](https://github.com/rahul-srigadde/nodejs-mongodb-swaagger/blob/master/static/Images/api-setup.png)
