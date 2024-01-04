@@ -15,7 +15,7 @@ $ npm start
 
 Run the project and access the documentation at:
 
-[http://localhost:3000/api-spec](http://localhost:3000/api-spec)
+[http://localhost:3000/api-docs](http://localhost:3000/api-docs)
 
 ## Screenshots
 See the result after construction:
