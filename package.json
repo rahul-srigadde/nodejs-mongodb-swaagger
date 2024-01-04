@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-application-project-setup",
+  "version": "1.0.0",
+  "description": "Node js Application project setup with express and mongodb.",
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "private": false,
+  "keywords": [
+    "swagger",
+    "autogen",
+    "example"
+  ],
+  "author": {
+    "name": "Rahul Srigadde",
+    "email": "rahul.srigadde625@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul-srigadde/nodejs-mongodb-swaagger.git"
+  },
+  "scripts": {
+    "start": "node ./docs/swaggerAutogen.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.17.3",
+    "mongoose": "6.2.2",
+    "nodemon": "2.0.15",
+    "swagger-autogen": "^2.23.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
